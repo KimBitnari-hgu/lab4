@@ -1,3 +1,8 @@
 version 3
+<<<<<<< HEAD
 + version 5 : master
 + version 6 : master
+=======
++ version 4 : second
++ version 7 : second
+>>>>>>> second
