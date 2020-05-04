@@ -1,0 +1,12 @@
+s21700099@peace:~/oss2020/git_lab4$ git log --graph --oneline
+* d103f45 v9
+*   2f73bd9 v8
+|\
+| * 407061f v7
+| * 23d86a7 v4
+* | 9a1293c v6
+* | a1d30b0 v5
+|/
+* df1a593 v3
+* 9ffe9cc v2
+* 5337798 v1
